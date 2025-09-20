@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product,quantity,price,payment_type
+1001,C001,2025-09-10,Laptop,1,75000,Credit Card
+1002,C002,2025-09-11,Headphones,2,2000,UPI
+1003,C003,2025-09-11,Mobile,1,30000,Cash
+1004,C004,2025-09-12,,1,1500,Credit Card
+1005,C005,2025-09-12,Keyboard,2,,Debit Card
