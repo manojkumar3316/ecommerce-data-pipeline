@@ -15,7 +15,7 @@ This project builds a real-time inspired ETL pipeline for e-commerce sales data 
 ## 🚀 Steps
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/ecommerce-data-pipeline.git
+   git clone https://github.com/manojkumar3316/ecommerce-data-pipeline.git
    ```
 2. Open `ecommerce_pipeline.py` in Databricks or Jupyter.
 3. Run the pipeline to:
